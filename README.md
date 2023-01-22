@@ -30,8 +30,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/envignus/3-column-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://envignus.github.io/3-column-preview-card-component-main)
+- Solution URL: [Solution Repo](https://github.com/envignus/3-column-preview-card-component-main)
+- Live Site URL: [Live Site on Vercel](https://3-column-preview-card-component-main-gold-nine.vercel.app/)
 
 ## My process
 
